@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mugilaananthan@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Z90T3iCV5UCegIbiWolU-lCR9ZQt9e5/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://mugil.netlify.app/?resume-download=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
